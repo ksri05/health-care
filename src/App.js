@@ -1,6 +1,6 @@
 function App() {
   return (
-    <><p>Lorem Ipsum</p></>
+    <><p>Lorem Ipsum Sriram Srinath</p></>
   );
 }
 
